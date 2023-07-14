@@ -60,7 +60,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "postgresql php8.0-curl php8.0-mbstring php8.0-imagick php8.0-gd php8.0-pgsql php8.0-xml"
+    packages = "postgresql php8.1-curl php8.1-mbstring php8.1-imagick php8.1-gd php8.1-pgsql php8.1-xml"
 
     [resources.database]
     type = "postgresql"
